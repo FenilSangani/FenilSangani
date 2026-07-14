@@ -14,7 +14,7 @@
       <a href="https://leetcode.com/FENIL_SANGANI">LeetCode</a>
     </td>
     <td align="center" width="140">
-      <a href="https://codeforces.com/profile/FENIL_SANGANI"><img src="./codeforces.png" height="55"/></a>
+      <a href="https://codeforces.com/profile/FENIL_SANGANI"><img src="./codeforces.jpg" height="55"/></a>
       <br><br>
       <a href="https://codeforces.com/profile/FENIL_SANGANI">Codeforces</a>
     </td>
