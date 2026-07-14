@@ -24,7 +24,7 @@
       <a href="https://www.codechef.com/users/FENIL_SANGANI">CodeChef</a>
     </td>
     <td align="center" width="140">
-      <a href="https://www.linkedin.com/in/Fenil_Sangani"><img src="./linkedin.png" height="55"/></a>
+      <a href="https://www.linkedin.com/in/fenil-sangani-7b8b20324/"><img src="./linkedin.png" height="55"/></a>
       <br><br>
       <a href="https://www.linkedin.com/in/Fenil_Sangani">LinkedIn</a>
     </td>
